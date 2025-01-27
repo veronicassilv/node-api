@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1736176361527" clover="3.2.0">
-  <project timestamp="1736176361527" name="All files">
-    <metrics statements="45" coveredstatements="39" conditionals="12" coveredconditionals="10" methods="4" coveredmethods="2" elements="61" coveredelements="51" complexity="0" loc="45" ncloc="45" packages="3" files="4" classes="4"/>
+<coverage generated="1738021539182" clover="3.2.0">
+  <project timestamp="1738021539183" name="All files">
+    <metrics statements="43" coveredstatements="39" conditionals="10" coveredconditionals="9" methods="3" coveredmethods="2" elements="56" coveredelements="50" complexity="0" loc="43" ncloc="43" packages="2" files="3" classes="3"/>
     <package name="controllers.signup">
-      <metrics statements="40" coveredstatements="36" conditionals="11" coveredconditionals="10" methods="3" coveredmethods="2"/>
+      <metrics statements="40" coveredstatements="36" conditionals="10" coveredconditionals="9" methods="3" coveredmethods="2"/>
       <file name="signup-protocols.ts" path="/home/veronica/Documentos/clean-node-api/src/presentation/controllers/signup/signup-protocols.ts">
         <metrics statements="4" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
@@ -12,7 +12,7 @@
         <line num="4" count="0" type="stmt"/>
       </file>
       <file name="signup.ts" path="/home/veronica/Documentos/clean-node-api/src/presentation/controllers/signup/signup.ts">
-        <metrics statements="36" coveredstatements="36" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+        <metrics statements="36" coveredstatements="36" conditionals="9" coveredconditionals="9" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -22,32 +22,32 @@
         <line num="7" count="1" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
         <line num="9" count="1" type="cond" truecount="1" falsecount="0"/>
-        <line num="10" count="9" type="stmt"/>
-        <line num="11" count="9" type="stmt"/>
-        <line num="12" count="9" type="stmt"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="1" type="cond" truecount="1" falsecount="0"/>
-        <line num="15" count="9" type="stmt"/>
-        <line num="16" count="9" type="stmt"/>
-        <line num="17" count="9" type="stmt"/>
-        <line num="18" count="9" type="cond" truecount="1" falsecount="0"/>
-        <line num="19" count="30" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="18" count="10" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="34" type="cond" truecount="1" falsecount="0"/>
         <line num="20" count="4" type="stmt"/>
         <line num="21" count="4" type="stmt"/>
-        <line num="22" count="30" type="stmt"/>
-        <line num="23" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="34" type="stmt"/>
+        <line num="23" count="10" type="cond" truecount="2" falsecount="0"/>
         <line num="24" count="1" type="stmt"/>
         <line num="25" count="1" type="stmt"/>
-        <line num="26" count="4" type="cond" truecount="1" falsecount="0"/>
-        <line num="27" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="26" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="27" count="10" type="cond" truecount="1" falsecount="0"/>
         <line num="28" count="1" type="stmt"/>
         <line num="29" count="1" type="stmt"/>
         <line num="30" count="2" type="cond" truecount="1" falsecount="0"/>
-        <line num="31" count="9" type="cond" truecount="1" falsecount="0"/>
-        <line num="32" count="1" type="stmt"/>
-        <line num="33" count="1" type="stmt"/>
-        <line num="34" count="9" type="stmt"/>
-        <line num="35" count="9" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="10" type="stmt"/>
+        <line num="35" count="10" type="stmt"/>
         <line num="36" count="1" type="stmt"/>
       </file>
     </package>
@@ -58,14 +58,6 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
-      </file>
-    </package>
-    <package name="protocols">
-      <metrics statements="2" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <file name="index.ts" path="/home/veronica/Documentos/clean-node-api/src/presentation/protocols/index.ts">
-        <metrics statements="2" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
-        <line num="2" count="0" type="stmt"/>
       </file>
     </package>
   </project>
