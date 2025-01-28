@@ -207,11 +207,10 @@ describe('SignUp Controller', () => {
         const { sut } = makeSut()
         const httpRequest = {
             body: {
-                id: 'valid_id',
                 name: 'Teste',
                 email: 'teste@gmail.com',
                 password: 'teste@123',
-                passwordConfirmatin: ''
+                passwordConfirmation: 'teste@123'
             }
         }
 
@@ -221,6 +220,7 @@ describe('SignUp Controller', () => {
             id: 'valid_id',
             name: 'Teste',
             email: 'teste@gmail.com',
+            password: 'teste@123'
         })
     })
 })
